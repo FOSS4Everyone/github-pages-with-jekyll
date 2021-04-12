@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Github van een politicus die leert coderen."
 ---
 
-I'm glad you are here. I plan to talk about ...
+Een boekhouding van mijn vooruitgang.
